@@ -6,6 +6,9 @@ Curso de FastAPI de platzi sobre las peliculas
 Para activar mi entorno virtual 
 -source venv/bin/actívate
  
+ ![image](https://github.com/victor1736/CursodeFastAPI/assets/82006043/b2c650ce-b2fe-48f1-a3ef-21911774dea6)
+
+ 
 ##Instalar fastapi
 - pip install fastapi
 Instalar uvicorn para poder lanzar el servidor 
