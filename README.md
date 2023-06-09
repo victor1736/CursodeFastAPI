@@ -2,17 +2,28 @@
 Curso de FastAPI de platzi sobre las peliculas
 
 ## Crear entorno virtual 
+
+Para crear el entorno virtual, utilice el siguiente comando:
+
 -	Python3 -m venv venv
-Para activar mi entorno virtual 
+-
+Para activar el entorno virtual, ejecuta el siguiente comando:
+
 -source venv/bin/actívate
  
  ![image](https://github.com/victor1736/CursodeFastAPI/assets/82006043/b2c650ce-b2fe-48f1-a3ef-21911774dea6)
 
  
-# Instalar fastapi
+## Instalación de FastAPI y Uvicorn
+
+Para instalar FastAPI, ejecuta el siguiente comando:
+
 - pip install fastapi
-Instalar uvicorn para poder lanzar el servidor 
+
+Para instalar Uvicorn y poder lanzar el servidor, utilice el siguiente comando:
+
 - pip install uvircon
+
 Comandos para llamar la librería  y asignarla a una variable para luego crear mi primer enpoint
  
  ![image](https://github.com/victor1736/CursodeFastAPI/assets/82006043/72170a49-f40b-4169-8eff-10f467f91e92)
