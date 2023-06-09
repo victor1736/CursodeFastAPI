@@ -1,7 +1,7 @@
 # CursodeFastAPI
 Curso de FastAPI de platzi sobre las peliculas
 
-# Crear entorno virtual comando 
+## Crear entorno virtual 
 -	Python3 -m venv venv
 Para activar mi entorno virtual 
 -source venv/bin/actívate
@@ -59,7 +59,7 @@ La lista con mi diccionario
  
  ![image](https://github.com/victor1736/CursodeFastAPI/assets/82006043/df31c37c-d816-4417-83e1-30a3c0e898c8)
 
-#También puedo filtrar mis películas por id  de esta forma
+# También puedo filtrar mis películas por id  de esta forma
  
  ![image](https://github.com/victor1736/CursodeFastAPI/assets/82006043/f6d24c8c-7c25-4301-9a3a-b9f8918deaf5)
 
@@ -71,7 +71,7 @@ esta es su respuesta en el navegador
 
 ![image](https://github.com/victor1736/CursodeFastAPI/assets/82006043/18945b7b-d611-43da-b532-01f3936636d0)
 
-#Puedo buscarla como un parámetro query
+# Puedo buscarla como un parámetro query
 
 ![image](https://github.com/victor1736/CursodeFastAPI/assets/82006043/f1e9313f-102c-4a21-b181-8bb37a91842e)
  
@@ -105,7 +105,7 @@ Agregamos una clase
 
 ![image](https://github.com/victor1736/CursodeFastAPI/assets/82006043/86e6cfe4-bf64-4d0a-a9f5-7200c2aecc44)
 
- #Podemos cambiar el post y put  por menos líneas de código  donde en las entradas de la función pusimos la clase movie : Movie
+ # Podemos cambiar el post y put  por menos líneas de código  donde en las entradas de la función pusimos la clase movie : Movie
  
  ![image](https://github.com/victor1736/CursodeFastAPI/assets/82006043/a16eb48e-ee60-416d-98b8-17018c4a6b35)
 
